@@ -36,12 +36,9 @@ Smart Librarian helps users discover books through an intelligent chat assistant
 
 - **User Authentication:** Register, login, logout, JWT-based session management.
 - **AI Chat:** Book recommendations via OpenAI, with context-aware responses and multi-language support.
-- **Conversation History:** Maintained and sent as context for better AI answers.
 - **Profanity Filtering:** Customizable list in `backend/app/core/bad_words.txt`.
-- **Favorites:** Save and view favorite books.
 - **Dashboard:** Overview of user activity and recommendations.
 - **RAG (Retrieval Augmented Generation):** ChromaDB integration for fast search and summarization.
-- **Admin Tools:** SQL scripts for database management.
 
 ---
 
