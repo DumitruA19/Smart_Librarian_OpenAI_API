@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Paletă vie, contrastantă */
+:root {
+  --radius: 14px;
+}
+
+html, body, #root { height: 100%; }
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+  /* background cu un gradient subtil + accente */
+  background:
+    radial-gradient(1200px 800px at 10% -10%, rgba(56,189,248,.25), transparent 60%),
+    radial-gradient(900px 700px at 120% 10%, rgba(192,38,211,.18), transparent 50%),
+    radial-gradient(700px 600px at 50% 120%, rgba(16,185,129,.15), transparent 50%),
+    #020617;
+}
+
+.container { @apply max-w-6xl mx-auto px-4; }
+.card { 
+  @apply bg-white/10 backdrop-blur-xl border border-white border-opacity-10 rounded-[var(--radius)] shadow-[0_10px_40px_rgba(2,6,23,.35)];
+}
+
+/* UI utils */
+.input {
+  @apply h-12 w-full px-4 rounded-[var(--radius)]
+         bg-white/5 border border-white border-opacity-10 text-slate-100
+         outline-none focus:ring-2 focus:ring-cyan-400/60;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center h-12 px-5 rounded-[var(--radius)]
+         font-medium transition;
+}
+.btn-primary {
+  @apply bg-gradient-to-tr from-cyan-400 to-fuchsia-500 text-slate-950 shadow-[0_10px_30px_rgba(56,189,248,.35)]
+         hover:opacity-95;
+}
+.btn-ghost {
+  @apply bg-white/5 text-slate-100 border border-white/10 hover:bg-white/10;
+}
+.badge { @apply text-xs px-2 py-1 rounded-full bg-white/10 text-slate-300 border border-white/10; }

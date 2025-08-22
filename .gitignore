@@ -1,0 +1,3 @@
+/k8s/*
+!/k8s/*.example.yaml
+!/k8s/README.md
