@@ -1,0 +1,749 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "dystopian",
+    "themes": [
+      "totalitarianism",
+      "surveillance",
+      "freedom",
+      "propaganda",
+      "truth"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Roman distopic despre un stat totalitar și lupta pentru adevăr și libertate."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "genre": "fantasy",
+    "themes": [
+      "adventure",
+      "friendship",
+      "courage",
+      "self-discovery"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Bilbo pornește într-o aventură alături de pitici pentru a înfrunta dragonul Smaug."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "literary fiction",
+    "themes": [
+      "racism",
+      "justice",
+      "empathy",
+      "coming-of-age"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O comunitate sudistă confruntă prejudecăți rasiale când un avocat apără un nevinovat."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "romance",
+    "themes": [
+      "love",
+      "class",
+      "prejudice",
+      "personal-growth"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Spiritul lui Elizabeth Bennet întâlnește rezervele lui Mr. Darcy într-o poveste despre dragoste și statut."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "literary fiction",
+    "themes": [
+      "american-dream",
+      "wealth",
+      "illusion",
+      "desire"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Strălucirea anilor '20 ascunde visuri spulberate și dorințe imposibile."
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genre": "adventure",
+    "themes": [
+      "obsession",
+      "fate",
+      "nature",
+      "revenge"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Căpitanul Ahab vânează cu încăpățânare balena albă într-o meditație asupra obsesiei."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genre": "historical",
+    "themes": [
+      "history",
+      "family",
+      "love",
+      "destiny",
+      "war"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Destine împletite în timpul războaielor napoleoniene, între iubire și istorie."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "literary fiction",
+    "themes": [
+      "alienation",
+      "identity",
+      "innocence"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Holden Caulfield rătăcește prin New York căutând autenticitate."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genre": "dystopian",
+    "themes": [
+      "conditioning",
+      "technology",
+      "freedom",
+      "identity"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O societate hedonistă sacrifică individualitatea pentru stabilitate."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "genre": "epic fantasy",
+    "themes": [
+      "friendship",
+      "sacrifice",
+      "good-vs-evil",
+      "hope"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "O călătorie pentru a distruge Inelul Unic și a salva Pământul de Mijloc."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "genre": "psychological fiction",
+    "themes": [
+      "guilt",
+      "redemption",
+      "morality",
+      "poverty"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Raskolnikov luptă cu vina și ideile sale despre moralitate după o crimă."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genre": "fable",
+    "themes": [
+      "destiny",
+      "dreams",
+      "self-discovery",
+      "love"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Santiago urmărește un vis care îl conduce spre descoperirea propriei meniri."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "year": 1877,
+    "genre": "literary fiction",
+    "themes": [
+      "love",
+      "society",
+      "jealousy",
+      "family"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O iubire pasională intră în conflict cu normele sociale ale epocii."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "genre": "gothic",
+    "themes": [
+      "creation",
+      "responsibility",
+      "isolation",
+      "ethics"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Victoriul creației și al respingerii: creator și creatură în căutarea sensului."
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genre": "historical",
+    "themes": [
+      "justice",
+      "compassion",
+      "redemption",
+      "revolution"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Drumul lui Jean Valjean spre mântuire pe fundalul nedreptății sociale."
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "genre": "satire",
+    "themes": [
+      "idealism",
+      "reality",
+      "friendship"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un cavaler visător și scutierul său pun la încercare granița dintre ideal și real."
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "philosophical tale",
+    "themes": [
+      "friendship",
+      "love",
+      "meaning",
+      "imagination"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Un mic prinț învață despre esențialul invizibil ochilor."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "genre": "gothic horror",
+    "themes": [
+      "good-vs-evil",
+      "fear",
+      "desire",
+      "otherness"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Contele din Transilvania își răspândește blestemul, iar prietenii se unesc să îl oprească."
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year": -700,
+    "genre": "epic",
+    "themes": [
+      "perseverance",
+      "homecoming",
+      "cunning",
+      "fate"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Odiseu se luptă cu zei și monștri pe drumul spre casă."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "genre": "fantasy",
+    "themes": [
+      "friendship",
+      "magic",
+      "identity",
+      "courage"
+    ],
+    "audience": "young-adult",
+    "lang": "ro",
+    "summary": "Harry descoperă că este vrăjitor și pornește la Hogwarts."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "science fiction",
+    "themes": [
+      "ecology",
+      "power",
+      "prophecy",
+      "survival"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Luptă pentru controlul planetei Arrakis și al mirodeniei care schimbă destine."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "genre": "dystopian",
+    "themes": [
+      "oppression",
+      "gender",
+      "religion",
+      "resistance"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O femeie încearcă să-și recapete libertatea într-o teocrație totalitară."
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "genre": "nonfiction",
+    "themes": [
+      "history",
+      "evolution",
+      "culture",
+      "society"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O privire cuprinzătoare asupra evoluției speciei umane și a miturilor ei fondatoare."
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "year": 2018,
+    "genre": "memoir",
+    "themes": [
+      "education",
+      "family",
+      "identity",
+      "resilience"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O tânără scapă din izolare pentru a-și construi viața prin educație."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "genre": "psychology",
+    "themes": [
+      "cognition",
+      "bias",
+      "decision-making"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Două sisteme ale gândirii ne modelează deciziile și greșelile."
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "genre": "mystery",
+    "themes": [
+      "faith",
+      "knowledge",
+      "power",
+      "heresy"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Crime într-o mănăstire medievală dezlegate de un călugăr erudit."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "genre": "post-apocalyptic",
+    "themes": [
+      "survival",
+      "parenthood",
+      "hope",
+      "morality"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un tată și un fiu traversează o lume distrusă, păstrând „focul” omeniei."
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "year": 1987,
+    "genre": "literary fiction",
+    "themes": [
+      "love",
+      "loss",
+      "memory",
+      "mental-health"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Dragoste și doliu în Japonia anilor ’60."
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "genre": "literary fiction",
+    "themes": [
+      "friendship",
+      "guilt",
+      "redemption",
+      "war"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Prieteniile și trădările a doi băieți pe fundalul Afganistanului zbuciumat."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "year": 2005,
+    "genre": "thriller",
+    "themes": [
+      "corruption",
+      "violence",
+      "justice",
+      "investigation"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O investigație jurnalistică se împletește cu un hacker genial."
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "genre": "mystery-thriller",
+    "themes": [
+      "symbols",
+      "religion",
+      "secrets",
+      "conspiracy"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un profesor de simbologie descoperă o conspirație veche prin indicii ascunse în artă."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "genre": "gothic",
+    "themes": [
+      "vanity",
+      "morality",
+      "art",
+      "decadence"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un portret păstrează urmele păcatelor unui tânăr care rămâne veșnic frumos."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "year": 1987,
+    "genre": "literary fiction",
+    "themes": [
+      "slavery",
+      "motherhood",
+      "memory",
+      "haunting"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Traumele sclaviei bântuie o mamă și familia ei."
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "year": 1996,
+    "genre": "fantasy",
+    "themes": [
+      "power",
+      "betrayal",
+      "family",
+      "war"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Case nobiliare se luptă pentru Tronul de Fier într-o lume plină de intrigi."
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "genre": "young-adult",
+    "themes": [
+      "oppression",
+      "survival",
+      "rebellion",
+      "media"
+    ],
+    "audience": "young-adult",
+    "lang": "ro",
+    "summary": "Katniss își sfidează regimul într-o competiție mortală televizată."
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "year": 2011,
+    "genre": "science fiction",
+    "themes": [
+      "ingenuity",
+      "survival",
+      "isolation",
+      "teamwork"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un astronaut supraviețuiește pe Marte cu știință, umor și tenacitate."
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "genre": "mystery",
+    "themes": [
+      "books",
+      "memory",
+      "love",
+      "secrets"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un băiat descoperă un autor dispărut și un labirint de secrete la Barcelona."
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "year": 1982,
+    "genre": "literary fiction",
+    "themes": [
+      "abuse",
+      "sisterhood",
+      "identity",
+      "freedom"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Scrisori care spun povestea vindecării și a găsirii propriei voci."
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "year": 2012,
+    "genre": "young-adult",
+    "themes": [
+      "illness",
+      "love",
+      "mortality",
+      "meaning"
+    ],
+    "audience": "young-adult",
+    "lang": "ro",
+    "summary": "Doi adolescenți se îndrăgostesc în timp ce înfruntă fragilitatea vieții."
+  },
+  {
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "year": 2011,
+    "genre": "science fiction",
+    "themes": [
+      "virtual-reality",
+      "nostalgia",
+      "corporate-power",
+      "friendship"
+    ],
+    "audience": "young-adult",
+    "lang": "ro",
+    "summary": "O vânătoare de comori într-o realitate virtuală care decide viitorul lumii."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "year": 1988,
+    "genre": "thriller",
+    "themes": [
+      "psychology",
+      "evil",
+      "manipulation",
+      "investigation"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un psihopat genial oferă indicii unei agente pentru a prinde alt criminal."
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "year": 1986,
+    "genre": "horror",
+    "themes": [
+      "fear",
+      "friendship",
+      "trauma",
+      "evil"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Un grup de prieteni se confruntă cu un rău antic care revine ciclic."
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "year": 2016,
+    "genre": "self-help",
+    "themes": [
+      "values",
+      "acceptance",
+      "growth"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "O perspectivă directă despre priorități și asumarea responsabilității personale."
+  },
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella H. Meadows",
+    "year": 2008,
+    "genre": "nonfiction",
+    "themes": [
+      "systems",
+      "feedback",
+      "complexity",
+      "leverage-points"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Introducere clară în gândirea sistemică și cum să schimbi sisteme."
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "genre": "self-help",
+    "themes": [
+      "habits",
+      "behavior-change",
+      "consistency",
+      "identity"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Mici schimbări care duc la rezultate extraordinare prin sisteme și repetiție."
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "year": 2016,
+    "genre": "business memoir",
+    "themes": [
+      "entrepreneurship",
+      "risk",
+      "brand",
+      "perseverance"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Memoriile cofondatorului Nike despre începuturile dificile ale companiei."
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "year": 1999,
+    "genre": "technology",
+    "themes": [
+      "craftsmanship",
+      "learning",
+      "software",
+      "best-practices"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Principii esențiale pentru gândirea și munca unui dezvoltator profesionist."
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "genre": "technology",
+    "themes": [
+      "code-quality",
+      "discipline",
+      "refactoring"
+    ],
+    "audience": "adult",
+    "lang": "ro",
+    "summary": "Ghid pentru scrierea de cod lizibil și ușor de întreținut."
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "genre": "philosophy",
+    "themes": [
+      "stoicism",
+      "virtue",
+      "resilience",
+      "self-control"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Reflecții stoice despre cum să trăiești bine și cu demnitate."
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "year": -750,
+    "genre": "epic",
+    "themes": [
+      "war",
+      "honor",
+      "fate",
+      "rage"
+    ],
+    "audience": "all-ages",
+    "lang": "ro",
+    "summary": "Povestea furiei lui Ahile și a războiului troian."
+  }
+]
